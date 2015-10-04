@@ -10,5 +10,10 @@
     "FlowType",
     "Text"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "angular": "angularjs~1.4.x",
+    "jquery": "~2.1.x"
+  },
+  "homepage": "https://github.com/llcan1120/ngFlowType"
 }
