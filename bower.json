@@ -1,0 +1,14 @@
+{
+  "name": "ngFlowType",
+  "version": "1.0.0",
+  "authors": [
+    "Lincan Li <email@lincan.li>"
+  ],
+  "description": "Better AngularJS directive of FlowTypeJS",
+  "main": "ngFlowType.js",
+  "keywords": [
+    "FlowType",
+    "Text"
+  ],
+  "license": "MIT"
+}
