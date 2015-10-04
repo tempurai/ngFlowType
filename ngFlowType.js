@@ -15,7 +15,7 @@
 
 /* Directives */
 
-angular.module('ngFlowtype', []).
+angular.module('ngFlowType', []).
     directive('flowtype', function ($compile) {
 
         var flowType = function (element, options) {
